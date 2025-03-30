@@ -1,0 +1,21 @@
+[
+  {
+    "id": "esc1",
+    "titulo": "Beginning of the school year",
+    "narrativa": "It’s your first day teaching {materia} at the {nivel} level. Your {alumnos} students are entering the classroom for the first time. What do you decide to do?",
+    "opciones": {
+      "a": {
+        "texto": "You greet the group with an ice-breaker activity.",
+        "consecuencia": "Students feel welcomed and start engaging.",
+        "retroalimentacion": "Creating a warm environment early on helps build positive relationships.",
+        "impacto": "Improves classroom environment"
+      },
+      "b": {
+        "texto": "You begin by explaining the course content immediately.",
+        "consecuencia": "Students are not very engaged at first.",
+        "retroalimentacion": "Taking time to know your group helps long-term dynamics.",
+        "impacto": "Increases workload"
+      }
+    }
+  }
+]

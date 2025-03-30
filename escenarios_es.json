@@ -1,0 +1,21 @@
+[
+  {
+    "id": "esc1",
+    "titulo": "Inicio del ciclo escolar",
+    "narrativa": "Es tu primer día dando clases de {materia} en el nivel {nivel}. Tus {alumnos} alumnos están entrando al aula por primera vez. ¿Qué decides hacer para comenzar?",
+    "opciones": {
+      "a": {
+        "texto": "Recibes al grupo con una dinámica de presentación.",
+        "consecuencia": "Los estudiantes se sienten bienvenidos y comienzan a participar.",
+        "retroalimentacion": "Crear un ambiente cálido desde el principio ayuda a establecer una relación positiva.",
+        "impacto": "Mejora el ambiente de clase"
+      },
+      "b": {
+        "texto": "Empiezas explicando el contenido del curso inmediatamente.",
+        "consecuencia": "Los alumnos no se involucran mucho al principio.",
+        "retroalimentacion": "Tomarte tiempo para conocer al grupo mejora la dinámica a largo plazo.",
+        "impacto": "Aumenta la carga de trabajo"
+      }
+    }
+  }
+]
