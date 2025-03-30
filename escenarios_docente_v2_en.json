@@ -1,0 +1,27 @@
+[
+    {
+        "etapa": "Back to School Preparation",
+        "objetivo": "Planning, instructional design, classroom context awareness",
+        "situacion": "You're about to start the school year as a {materia} teacher in {nivel_educativo}. How will you plan your first classes?",
+        "opciones": [
+            "You create a detailed plan based on the group’s context and needs.",
+            "You reuse last year’s materials without adapting them.",
+            "You decide to get to know the group before planning in detail."
+        ],
+        "retroalimentacion": [
+            "Your planning is appropriate. You considered the group’s context and needs. 🧠",
+            "Adapting your planning to the context is essential. 🧩",
+            "Observation can help, but starting without a plan may cost you valuable time. ⏳"
+        ],
+        "consecuencia": [
+            "The group responds positively and the classroom climate is favorable.",
+            "Some activities don’t work well with this group.",
+            "The beginning is confusing and students don’t understand your expectations."
+        ],
+        "impacto": [
+            "B: +positive climate, +teacher-student bond",
+            "C: no significant change, you need to adjust soon",
+            "A: +stress, -group motivation"
+        ]
+    }
+]

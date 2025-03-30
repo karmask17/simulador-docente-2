@@ -1,0 +1,27 @@
+[
+    {
+        "etapa": "Preparación para el ciclo",
+        "objetivo": "Planeación, diseño instruccional, conocimiento del contexto",
+        "situacion": "Estás a punto de iniciar el ciclo escolar como profesor(a) de {materia} en {nivel_educativo}. ¿Cómo planeas tus primeras clases?",
+        "opciones": [
+            "Elaboras un plan detallado con base en el contexto y necesidades del grupo.",
+            "Reutilizas tus materiales del año pasado sin adaptarlos.",
+            "Esperas a conocer al grupo antes de planear a fondo."
+        ],
+        "retroalimentacion": [
+            "Tu planeación es adecuada. Consideraste el contexto y las necesidades del grupo. 🧠",
+            "Adaptar tu planificación al contexto es esencial. 🧩",
+            "Observar primero puede ser útil, pero sin planificación inicial podrías perder tiempo valioso. ⏳"
+        ],
+        "consecuencia": [
+            "El grupo responde positivamente y el ambiente es favorable.",
+            "Algunas actividades no funcionan bien con este grupo.",
+            "El inicio es confuso y los estudiantes no entienden bien tus expectativas."
+        ],
+        "impacto": [
+            "B: +clima positivo, +vínculo docente-alumno",
+            "C: sin cambio significativo, necesitas ajustar pronto",
+            "A: +estrés, -motivación grupal"
+        ]
+    }
+]
